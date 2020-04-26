@@ -1,0 +1,13 @@
+{
+    "bot": {
+        "token": "",
+        "prefix": "&"
+    },
+    "ficha": {
+        "health": 15,
+        "minAge": 18,
+        "maxAge": 40,
+        "minStatus": 5,
+        "maxStatus": 60
+    }
+}

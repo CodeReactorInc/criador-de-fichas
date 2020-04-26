@@ -42,7 +42,7 @@ This project has been created by Soft Dynamics with [GPL v3.0 license](https://g
 
 ## Bot info
 
-Name: Criador de Fichas
-Main category: RPG
-Version: 3.0 Beta
-Generation: 1
+- Name: Criador de Fichas
+- Main category: RPG
+- Version: 3.0 Beta
+- Generation: 1

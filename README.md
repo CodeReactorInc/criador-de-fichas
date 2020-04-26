@@ -39,3 +39,10 @@ or
 ## License
 
 This project has been created by Soft Dynamics with [GPL v3.0 license](https://github.com/CodeReactorInc/criador-de-fichas/blob/master/LICENSE.txt) to you can modify, copy and recreate
+
+## Bot info
+
+Name: Criador de Fichas
+Main category: RPG
+Version: 3.0 Beta
+Generation: 1
